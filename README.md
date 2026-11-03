@@ -1,5 +1,7 @@
 # TeePay PHP SDK
 
+[![CI](https://github.com/kraftonnotgar-spec/teepay-php/actions/workflows/ci.yml/badge.svg)](https://github.com/kraftonnotgar-spec/teepay-php/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 The official PHP library for the [TeePay](https://teepay.me) API: mobile money push payments (USSD prompts),
 hosted checkout sessions, Tanzanian Control Numbers, payouts and webhook verification.
 
